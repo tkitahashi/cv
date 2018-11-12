@@ -29,3 +29,6 @@
 2010年3月    熊本大学大学院自然科学研究科理学専攻 博士前期課程修了
 
 2008年3月    熊本大学理学部理学科 卒業
+
+___
+**[[HOME]](https://tkitahashi.github.io/)  [[CV]](https://tkitahashi.github.io/cv/)  [[研究業績]](https://tkitahashi.github.io/publication/)  [[学会発表]](https://tkitahashi.github.io/presentation/)  [[研究乗船歴]](https://tkitahashi.github.io/cruise/)**
