@@ -36,5 +36,15 @@
 
 2008年3月    熊本大学理学部理学科 卒業
 
+## 研究費獲得状況
+
+- 2016-2018　若手研究（B）「高速自動解析手法を用いた巨大地震がメイオファウナ群集に与えた影響評価」（代表）
+
+## 特許
+
+- 北橋倫，西島美由紀，下田代雅文「統合システム及び統合方法」特願2017-090809
+
+- 北橋倫，渡部裕美，土屋正史，山本啓之「生物粒子を含む試料の前処理方法、生物粒子の画像取得方法、生物粒子を含む試料の前処理装置、及び生物粒子画像取得装置」特願2016-232868
+
 ___
 **[[HOME]](https://tkitahashi.github.io/)  [[CV]](https://tkitahashi.github.io/cv/)  [[研究業績]](https://tkitahashi.github.io/publication/)  [[学会発表]](https://tkitahashi.github.io/presentation/)  [[研究乗船歴]](https://tkitahashi.github.io/cruise/)**
