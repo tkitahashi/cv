@@ -24,7 +24,7 @@
 
 ## 教育歴
 
-2016年5月11日〜2016年6月14日    独立行政法人石油天然ガス・金属鉱物資源機構 研修講師 <a href="<a href="http://www.jogmec.go.jp/news/release/news_06_000153.html" target="_blank">Link</a>
+2016年5月11日〜2016年6月14日    独立行政法人石油天然ガス・金属鉱物資源機構 研修講師 <a href="http://www.jogmec.go.jp/news/release/news_06_000153.html" target="_blank">Link</a>
   
 2013年11月29日 東京大学大学院新領域創成科学研究科「自然環境学最前線」里山と深海の生物多様性―何が生物多様性をもたらしているのか？  講師
 
