@@ -5,6 +5,7 @@
   
 **博士（環境学）**
 
+<br>
 ## 所属学会
 
 - 日本ベントス学会 <a href="http://benthos-society.jp/" target="_blank">[Link]</a>
