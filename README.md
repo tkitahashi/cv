@@ -7,12 +7,12 @@
 
 ## 所属学会
 
-- 日本ベントス学会
-- 日本生態学会
-- 日本メイオファウナ研究会
-- Deep-Sea Biology Society
+- 日本ベントス学会 <a href="http://benthos-society.jp/" target="_blank">[Link]</a>
+- 日本生態学会 <a href="http://www.esj.ne.jp/esj/" target="_blank">[Link]</a>
+- 日本メイオファウナ研究会 <a href="https://sites.google.com/site/meiofaunajapan/home" target="_blank">[Link]</a>
+- Deep-Sea Biology Society <a href="https://dsbsoc.org/" target="_blank">[Link]</a>
 - International Association of Meiobenthologists
-- World Association of Copepodologists
+- World Association of Copepodologists <a href="http://www.monoculus.org/" target="_blank">[Link]</a>
 
 ## 職歴
 
